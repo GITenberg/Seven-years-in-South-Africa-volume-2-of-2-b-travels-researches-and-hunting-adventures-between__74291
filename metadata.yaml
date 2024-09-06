@@ -1,0 +1,48 @@
+_repo: Seven-years-in-South-Africa-volume-2-of-2-b-travels-researches-and-hunting-adventures-between__74291
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Frewer, Ellen E. (Ellen Elizabeth)
+    alias: Frewer, Ellen Elizabeth
+    birthdate: 1848
+    deathdate: 1940
+    gutenberg_agent_id: '2984'
+    url: http://www.gutenberg.org/2009/agents/2984
+creator:
+  author:
+    agent_name: Holub, Emil
+    aliases:
+    - Holub, Emile
+    - Holub, Emilio
+    birthdate: 1847
+    deathdate: 1902
+    gutenberg_agent_id: '6290'
+    url: http://www.gutenberg.org/2009/agents/6290
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Emil_Holub
+    - http://de.wikipedia.org/wiki/Emil_Holub
+description: ''
+gutenberg_issued: '2024-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74291'
+language: en
+pgterms:marc904: https://archive.org/details/sevenyearsinsout01holu
+pgterms:marc905: 20211215110957holub
+pgterms:marc906: '1881'
+pgterms:marc907: gb
+production_note: Peter Becker, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bSampson Low, Marston, Searle & Rivington, $c1881.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South Africa -- Description and travel'
+- !lcsh 'Hunting -- South Africa'
+- !lcc 'DT'
+- GITenberg
+title: 'Seven years in South Africa, volume 2 (of 2) : $b travels, researches, and
+  hunting adventures, between the diamond fields and the Zambesi (1872-79)'
+url: http://www.gutenberg.org/ebooks/74291
